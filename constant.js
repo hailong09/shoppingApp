@@ -1,0 +1,9 @@
+export const USER_TOKEN = "UserToken";
+export const CART_ITEMS = "CartItems";
+export const SET_AUTH = "SET_AUTH";
+export const ADD_ITEM = "ADD_ITEM";
+export const SET_ITEM = "SET_ITEM";
+export const OPEN_CART = "OPEN_CART";
+export const REMOVE_ITEM = "REMOVE_ITEM";
+export const EMPTY_CART = "EMPTY_CART";
+export const SET_ORDER_HISTORY = "SET_ORDER_HISTORY";
